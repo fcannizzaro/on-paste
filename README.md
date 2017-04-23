@@ -12,12 +12,17 @@ npm i --save on-paste
 
 # Usage
 ```javascript
-var paste = require('on-paste');
+var paste = require('on-paste')();
 
 paste.on('change', (value) => {
   console.log('paste:', value);
 });
 ```
+
+# Module
+
+## Constructor (number: polling)
+- `polling` time interval
 
 # Author
 Francesco Cannizzaro
