@@ -21,8 +21,8 @@ paste.on('change', (value) => {
 
 # Module
 
-## Constructor (number: polling)
-- `polling` time interval
+## Constructor ([, number: polling])
+- `polling` time interval (**default**: 200ms)
 
 # Author
 Francesco Cannizzaro
