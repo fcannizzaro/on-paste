@@ -1,6 +1,6 @@
 {
   "name": "on-paste",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Paste Listener",
   "main": "dist/index.js",
   "dependencies": {
@@ -18,5 +18,13 @@
     "clipboard"
   ],
   "author": "Francesco Cannizzaro",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcannizzaro/on-paste.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fcannizzaro/on-paste/issues"
+  },
+  "homepage": "https://github.com/fcannizzaro/on-paste#readme"
 }

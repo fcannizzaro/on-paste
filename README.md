@@ -19,9 +19,8 @@ paste.on('change', (value) => {
 });
 ```
 
-# Module
+# Module Args
 
-## Constructor ([, number: polling])
 - `polling` time interval (**default**: 200ms)
 
 # Author
